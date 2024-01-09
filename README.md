@@ -19,7 +19,7 @@ React Native app to search for your favourites restaurants in your area.
     4. Run the Expo app
 ### Demo
 
-![Simulator Screen Recording - iPhone 15 Pro - 2024-01-09 at 15 27 03](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/34ad5052-f3a4-4dd8-86ec-2c0cf420f806)
+![MealsToGoDemo copy-min](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/87c4b080-d7b4-4297-b972-7008580855d4)
 
 ### Screenshots
 
