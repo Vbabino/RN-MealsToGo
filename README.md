@@ -19,14 +19,26 @@ React Native app to search for your favourites restaurants in your area.
     4. Run the Expo app
 ### Demo
 
-![MealsToGoDemo copy-min](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/98b2370a-2942-45ba-b44d-940dcd381a19)
+![Simulator Screen Recording - iPhone 15 Pro - 2024-01-09 at 15 27 03](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/34ad5052-f3a4-4dd8-86ec-2c0cf420f806)
 
 ### Screenshots
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-09 at 15 19 00](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/fd6308a1-b402-44d8-9671-70e63c117ae7)
-![Screenshot_1704813536](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/d84301cf-adc8-486f-a4bc-f40e2710bb87)
-![Screenshot_1704813588](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/d10704bb-e47a-4cc6-a721-9c6ed0f450b0)
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-09 at 15 20 26](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/d3a5a9ab-7ae4-41b0-85e6-2140a5e90d3d)
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-09 at 15 20 10](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/36b96d08-4649-428f-b9b9-bda9f6f35311)
+![Screenshot_1704813518](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/0283aa1c-d97d-40cf-bb49-f9fc2509997d)
+![Screenshot_1704813588](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/544851a5-6530-453c-892e-65704809fd0d)
+![Simulator Screenshot - iPhone 15 Pro - 2024-01-09 at 15 19 00](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/b0e0b46a-9b73-4059-b652-36837add4a48)
+![Screenshot_1704813536](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/1d2d1f1e-667c-4faa-8e90-740fce64ef21)
+![Simulator Screenshot - iPhone 15 Pro - 2024-01-09 at 15 20 26](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/03b83771-49a3-46b0-988c-51055e162244)
+![Simulator Screenshot - iPhone 15 Pro - 2024-01-09 at 15 20 10](https://github.com/Vbabino/RN-MealsToGo/assets/91137272/79acccc4-41b0-4cbc-884d-a8c73e51fa7f)
+
+
+
+
+
+
+
+
+
+
+
 
 
